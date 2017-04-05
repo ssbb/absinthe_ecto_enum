@@ -1,4 +1,4 @@
-# Ansible.EctoEnum
+# Absinthe.EctoEnum
 
 Provides some helper fucnions for [EctoEnum](https://github.com/gjaldon/ecto_enum)
 integration with [Absinthe](https://github.com/absinthe-graphql/absinthe).
