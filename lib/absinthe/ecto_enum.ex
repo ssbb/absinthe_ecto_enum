@@ -3,7 +3,7 @@ defmodule Absinthe.EctoEnum do
   Provides some helper fucnions for [EctoEnum](https://github.com/gjaldon/ecto_enum)
   integration with [Absinthe](https://github.com/absinthe-graphql/absinthe).
 
-  This function makes it easy to integrate enums defined with EctoEnum
+  This functions make it easy to integrate enums defined with EctoEnum
   with GraphQL API build with Absinthe.
 
   ## Installation
